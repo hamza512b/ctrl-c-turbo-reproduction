@@ -1,0 +1,17 @@
+{
+  "name": "ctrl-c-turbo-reproduction",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "turbo dev"
+  },
+  "author": "",
+  "license": "ISC",
+  "workspaces": [
+    "apps/*"
+  ],
+  "dependencies": {
+    "turbo": "^1.11.3"
+  }
+}
